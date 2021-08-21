@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek (@abhiyadav219)
 - 👀 I’m interested in Data Science and Development.
-- 🌱 I’m currently learning and brushing my skills.
+- 🌱 I’m currently learning and brushing up my skills.
 - 📫 How to reach me:Yadavabhishek254@gmail.com
 
 <!---
